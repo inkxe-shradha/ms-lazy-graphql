@@ -1,0 +1,61 @@
+.header-banner {
+    position: absolute;
+    top: 55%;
+    width: 80%;
+
+    .room-price {
+        font-size: 36px;
+        color: #1cc3b2;
+        margin-bottom: 0;
+
+        span {
+            font-size: 18px;
+            color: #ffffff;
+        }
+    }
+
+}
+
+ul {
+    li {
+        list-style: none;
+    }
+}
+
+.line-height-20 {
+    line-height: 2rem;
+}
+
+.profile-image-div {
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+}
+
+.profile-image {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.review-content {
+    width: 100%;
+
+    .review-title {
+        margin-bottom: 20px;
+
+        span {
+            font-size: 14px;
+            display: block;
+            margin-bottom: 10px;
+            color: #afb4bf;
+        }
+
+        h6 {
+            color: #1cc3b2;
+            margin-bottom: 0;
+        }
+    }
+}

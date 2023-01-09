@@ -1,0 +1,17 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.1/mdb.dark.min.css);
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.h-40px {
+  height: 40px;
+
+  h5 {
+    line-height: 40px;
+  }
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
